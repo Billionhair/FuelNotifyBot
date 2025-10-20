@@ -1,0 +1,25 @@
+
+categories:
+  - signal_type: Fuel Station Disruption
+    queries:
+      - "fuel station closed site:news.com.au"
+      - "no petrol site:reddit.com/r/australia"
+    keywords:
+      - "closed"
+      - "no petrol"
+      - "no diesel"
+
+  - signal_type: Freight / Logistics Breakdown
+    queries:
+      - "truck delivery delays Australia"
+      - "freight disruption Victoria"
+    keywords:
+      - "delays"
+      - "freight disruption"
+
+  - signal_type: Fuel Price Shock
+    queries:
+      - "fuel price surge Australia"
+    keywords:
+      - "price surge"
+      - "record petrol price"
